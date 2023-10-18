@@ -1,12 +1,12 @@
 @media(min-width:320px){
 	.carousel-item{
-		height:50vh;
+		height:45vh;
 	}
 	.card{
 	height:50vh;
 }
 }
-@media(min-width:800px){
+@media(min-width:720px){
 	.carousel-item{
 		height:30vh;
 	}
@@ -14,7 +14,7 @@
 	height:30vh;
 }
 }
-@media(min-width:801px){
+@media(min-width:900px){
 	.carousel-item{
 		height:50vh;
 	}
