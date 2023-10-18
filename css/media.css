@@ -1,0 +1,24 @@
+@media(min-width:320px){
+	.carousel-item{
+		height:50vh;
+	}
+	.card{
+	height:50vh;
+}
+}
+@media(min-width:800px){
+	.carousel-item{
+		height:30vh;
+	}
+	.card{
+	height:30vh;
+}
+}
+@media(min-width:801px){
+	.carousel-item{
+		height:50vh;
+	}
+	.card{
+	height:50vh;
+}
+}
